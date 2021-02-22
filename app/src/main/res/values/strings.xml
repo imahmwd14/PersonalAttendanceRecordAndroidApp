@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PersonalAttendanceRecord</string>
+
+    <string name="event_started">Time Started: %s</string>
+    <string name="event_attended">Time Attended: %s</string>
+    <string name="event_name">Name: %s</string>
+    <string name="clear_all_records">Clear All Records</string>
+    <string name="you_don_t_have_any_records_n_click_on_the">"You don't have any records 🙂 \nClick on the button in the bottom to add records"</string>
+
+
+</resources>
